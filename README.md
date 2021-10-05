@@ -1,7 +1,7 @@
 ### Oiie, sou a Karol Golfeto
 
 
-👩🏻‍🔬 Sou química de formação e mestra em engenharia química, mas como que eu gosto mesmo é de tecnologia estou cursando atualmente Análise e Desenvolvimento de Sistemas.
+👩🏻‍🔬 Sou química de formação e mestra em engenharia química, mas como o que eu gosto mesmo é de tecnologia estou cursando atualmente Análise e Desenvolvimento de Sistemas.
 
 
 Sou uma pessoa muito analítica, detalhista, focada, curiosa, organizada, que gosta de sair dos padrões tradicionais e gosta de desafios! 
