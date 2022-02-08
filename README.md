@@ -7,7 +7,9 @@
 Sou uma pessoa muito analítica, detalhista, focada, curiosa, organizada, que gosta de sair dos padrões tradicionais e gosta de desafios! 
 
 
-Em 2021 resolvi fazer minha transição de carreira e me encontrei na área de controle de qualidade de software e programação. ✨
+Em 2021 resolvi fazer minha transição de carreira, comecei trabalhando na área com controle de qualidade de software e programação. ✨
+
+Atualmente me encontrei na área de produtos e hoje atuo como Product Owner.
 
 
 <center>
